@@ -1,0 +1,7 @@
+C:\Users\shake\source\repos\static keyword\static keyword\bin\Debug\static keyword.exe.config
+C:\Users\shake\source\repos\static keyword\static keyword\bin\Debug\static keyword.exe
+C:\Users\shake\source\repos\static keyword\static keyword\bin\Debug\static keyword.pdb
+C:\Users\shake\source\repos\static keyword\static keyword\obj\Debug\static keyword.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\static keyword\static keyword\obj\Debug\static keyword.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\static keyword\static keyword\obj\Debug\static keyword.exe
+C:\Users\shake\source\repos\static keyword\static keyword\obj\Debug\static keyword.pdb
